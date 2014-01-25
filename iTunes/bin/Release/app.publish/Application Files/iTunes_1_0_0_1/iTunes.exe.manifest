@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="iTunes.exe" version="1.0.0.1" publicKeyToken="b625e16e0b63bbf1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="iTunes" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="iTunes.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d'utilisateur
+          Si vous souhaitez modifier le niveau du contrôle de compte d'utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l'une des propositions suivantes :
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous souhaitez utiliser la virtualisation de fichiers et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="irrKlang.NET4.dll" size="501760">
+      <assemblyIdentity name="irrKlang.NET4" version="1.0.3861.18767" publicKeyToken="A854741BD80517C7" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yLxoCm1ZnXmB11ZhGNPYGVqo3Wb92UGeGGmtvrETLgU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="iTunes.exe" size="274432">
+      <assemblyIdentity name="iTunes" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>QQ9nHu8ERgVWWyCQdc7qbo236fmolcZsfcQ8tWnFNxg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="policy.2.0.taglib-sharp.dll" size="3072">
+      <assemblyIdentity name="policy.2.0.taglib-sharp" version="0.0.0.0" publicKeyToken="DB62EBA44689B5B0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5NE7a3v2CdQ0sQx6u+RFtq+ua500tujNccDuvhxrr34=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="taglib-sharp.dll" size="443392">
+      <assemblyIdentity name="taglib-sharp" version="2.1.0.0" publicKeyToken="DB62EBA44689B5B0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>iuCVedAthcrHWIW2RUfcEpQOm58u5B0cRh9ZkIRQcYg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="iTunes.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Valentin-PC\Valentin" issuerKeyHash="c0b68c2d3efe67137fbb7b52c237a63212c0595e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wBuOaWB2XyYkIAmxvPlRV3qWvAalONe6YtCiHXNxHHE=</DigestValue></Reference></SignedInfo><SignatureValue>KgSD0YCERNwJrwyAcnzzUn/IuVGtKeVrVyLa6TP56uMYvwaWxbp3bJjprnVkMWRa58cU0uqXuhkkn8duqKOiBHD/mMZu4rbS3NzZDgCVIR0znql0Uo0lYIb/gya1w8ItjuYzNhd9Jv4lMIyGJOG1ZuXZBSb3S1KxhP1EByXs5X4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uDqJriGmM8xye9LEGVpcot+lnqndr6dQQn0nM0j3mEQrZAgnhfm5J8CJv4CVr7sqhdx6cVYIi3Y4gYpdMMA6bvdH6WMCAsvD5I4sgQgkGD/iGInKc/nKpx/C9Noyioznpnutga5TIBOgHG1H4KEaYmFomC3x9iIvExKIAfBxkLs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="711c71731da2d062bad738a506bc967a5751f9bcb1092024265f7660698e1bc0" Description="" Url=""><as:assemblyIdentity name="iTunes.exe" version="1.0.0.1" publicKeyToken="b625e16e0b63bbf1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Valentin-PC\Valentin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>TEQWNimXxKehVbf8TfErj7DwelNe4mhFOE3njyc3alo=</DigestValue></Reference></SignedInfo><SignatureValue>SCKbXmU+MUSmCjUx2u6PgXk/5c7OiVw07rmGlK9FA8kr+L56sMR42PhjlGhve1KUhtJx3soOLGvQ1H+J9jnYw/C2uLOq9hQCGjzV2ajiobWMWwQ2LJNfOZ1+KwEF7gbK6u+zttSyVBy4/vWU5eGIgBFKWegfVX/blllQTnrddnk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uDqJriGmM8xye9LEGVpcot+lnqndr6dQQn0nM0j3mEQrZAgnhfm5J8CJv4CVr7sqhdx6cVYIi3Y4gYpdMMA6bvdH6WMCAsvD5I4sgQgkGD/iGInKc/nKpx/C9Noyioznpnutga5TIBOgHG1H4KEaYmFomC3x9iIvExKIAfBxkLs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQXnqw4p6nd4dIkIc6RCfByDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAVgBhAGwAZQBuAHQAaQBuAC0AUABDAFwAVgBhAGwAZQBuAHQAaQBuMB4XDTEyMTIzMTExMDY1MVoXDTEzMTIzMTE3MDY1MVowMzExMC8GA1UEAx4oAFYAYQBsAGUAbgB0AGkAbgAtAFAAQwBcAFYAYQBsAGUAbgB0AGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuDqJriGmM8xye9LEGVpcot+lnqndr6dQQn0nM0j3mEQrZAgnhfm5J8CJv4CVr7sqhdx6cVYIi3Y4gYpdMMA6bvdH6WMCAsvD5I4sgQgkGD/iGInKc/nKpx/C9Noyioznpnutga5TIBOgHG1H4KEaYmFomC3x9iIvExKIAfBxkLsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBztzYRBdw/otVNQE+s6WfIg/MADYHfTmgG/tInZOiLZ7StIqF37MGgth7ohXEWCXJ2OHIE/NEin7iCr1ln1ieKIdP+v/PNyz9uYCUHVHZWO0rZvu4yr/A4QYRfWp7D5CM4wypDqP1lVhQ1E74WRLOJZ6EUJUywY2HW56wFhY6ESg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

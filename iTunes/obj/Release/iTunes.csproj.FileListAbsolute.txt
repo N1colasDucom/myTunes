@@ -1,0 +1,120 @@
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\iTunes.exe.config
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\iTunes.exe
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\iTunes.pdb
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\FluidKit.dll
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\irrKlang.NET4.dll
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\taglib-sharp.dll
+F:\iTunes v1.0\iTunes\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Form1.resources
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Properties.Resources.resources
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.exe
+F:\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.pdb
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\iTunes.exe.config
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.exe
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.pdb
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\iTunes.exe
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\iTunes.pdb
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\irrKlang.NET4.dll
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\taglib-sharp.dll
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Form1.resources
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Form2.resources
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\iTunes v1.0\iTunes\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\iTunes.exe.config
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.exe
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.pdb
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\iTunes.exe
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\iTunes.pdb
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\irrKlang.NET4.dll
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\taglib-sharp.dll
+F:\iTunes v1.2\iTunes\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.Form1.resources
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.Form2.resources
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.Properties.Resources.resources
+F:\iTunes v1.2\iTunes\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\iTunes.exe.config
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.exe
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.pdb
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\iTunes.exe
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\iTunes.pdb
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\irrKlang.NET4.dll
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\taglib-sharp.dll
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.AjoutMorceauDansPlaylist.resources
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.Form1.resources
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.MsBoxIntrouvable.resources
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.Properties.Resources.resources
+C:\Users\Valentin\Desktop\iTunes-Valentin Modif du 26\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\iTunes.exe.config
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.exe
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.pdb
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\iTunes.exe
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\iTunes.pdb
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\irrKlang.NET4.dll
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\taglib-sharp.dll
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.AjoutMorceauDansPlaylist.resources
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.Form1.resources
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.BrowserForm.resources
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.MsBoxIntrouvable.resources
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\iTunes-Valentin Modif du 29\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\iTunes.exe.config
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.exe
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.pdb
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\iTunes.exe
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\iTunes.pdb
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\irrKlang.NET4.dll
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\taglib-sharp.dll
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.AjoutMorceauDansPlaylist.resources
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.Form1.resources
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.BrowserForm.resources
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.MsBoxIntrouvable.resources
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.Properties.Resources.resources
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\iTunes.exe.manifest
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\bin\Release\iTunes.application
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.exe.manifest
+C:\Users\Valentin\Desktop\iTunes-Nicolas Modif du 31\iTunes\obj\Release\iTunes.application
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\iTunes.exe.config
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.exe
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.pdb
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\iTunes.exe.manifest
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\iTunes.application
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\iTunes.exe
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\iTunes.pdb
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\irrKlang.NET4.dll
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\taglib-sharp.dll
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.AjoutMorceauDansPlaylist.resources
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.Form1.resources
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.BrowserForm.resources
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.MsBoxIntrouvable.resources
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.Pistes_Edition.resources
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.Properties.Resources.resources
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.exe.manifest
+C:\Users\Valentin\Desktop\iTunes-Final\iTunes\obj\Release\iTunes.application

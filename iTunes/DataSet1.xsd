@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Pistes" msprop:Generator_TableClassName="PistesDataTable" msprop:Generator_TableVarName="tablePistes" msprop:Generator_TablePropName="Pistes" msprop:Generator_RowDeletingName="PistesRowDeleting" msprop:Generator_RowChangingName="PistesRowChanging" msprop:Generator_RowEvHandlerName="PistesRowChangeEventHandler" msprop:Generator_RowDeletedName="PistesRowDeleted" msprop:Generator_UserTableName="Pistes" msprop:Generator_RowChangedName="PistesRowChanged" msprop:Generator_RowEvArgName="PistesRowChangeEvent" msprop:Generator_RowClassName="PistesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Titre" msprop:Generator_ColumnVarNameInTable="columnTitre" msprop:Generator_ColumnPropNameInRow="Titre" msprop:Generator_ColumnPropNameInTable="TitreColumn" msprop:Generator_UserColumnName="Titre" type="xs:string" minOccurs="0" />
+              <xs:element name="Artiste" msprop:Generator_ColumnVarNameInTable="columnArtiste" msprop:Generator_ColumnPropNameInRow="Artiste" msprop:Generator_ColumnPropNameInTable="ArtisteColumn" msprop:Generator_UserColumnName="Artiste" type="xs:string" minOccurs="0" />
+              <xs:element name="Album" msprop:Generator_ColumnVarNameInTable="columnAlbum" msprop:Generator_ColumnPropNameInRow="Album" msprop:Generator_ColumnPropNameInTable="AlbumColumn" msprop:Generator_UserColumnName="Album" type="xs:string" minOccurs="0" />
+              <xs:element name="Durée" msprop:Generator_ColumnVarNameInTable="columnDurée" msprop:Generator_ColumnPropNameInRow="Durée" msprop:Generator_ColumnPropNameInTable="DuréeColumn" msprop:Generator_UserColumnName="Durée" type="xs:string" minOccurs="0" />
+              <xs:element name="Classement" msprop:Generator_ColumnVarNameInTable="columnClassement" msprop:Generator_ColumnPropNameInRow="Classement" msprop:Generator_ColumnPropNameInTable="ClassementColumn" msprop:Generator_UserColumnName="Classement" type="xs:string" minOccurs="0" />
+              <xs:element name="Genre" msprop:Generator_ColumnVarNameInTable="columnGenre" msprop:Generator_ColumnPropNameInRow="Genre" msprop:Generator_ColumnPropNameInTable="GenreColumn" msprop:Generator_UserColumnName="Genre" type="xs:string" minOccurs="0" />
+              <xs:element name="Chemin" msprop:Generator_ColumnVarNameInTable="columnChemin" msprop:Generator_ColumnPropNameInRow="Chemin" msprop:Generator_ColumnPropNameInTable="CheminColumn" msprop:Generator_UserColumnName="Chemin" type="xs:string" minOccurs="0" />
+              <xs:element name="Checksum" msprop:Generator_ColumnVarNameInTable="columnChecksum" msprop:Generator_ColumnPropNameInRow="Checksum" msprop:Generator_ColumnPropNameInTable="ChecksumColumn" msprop:Generator_UserColumnName="Checksum" type="xs:string" />
+              <xs:element name="Id" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:string" minOccurs="0" />
+              <xs:element name="DateAjout" msprop:Generator_ColumnVarNameInTable="columnDateAjout" msprop:Generator_ColumnPropNameInRow="DateAjout" msprop:Generator_ColumnPropNameInTable="DateAjoutColumn" msprop:Generator_UserColumnName="DateAjout" type="xs:string" minOccurs="0" />
+              <xs:element name="NbLecture" msprop:Generator_ColumnVarNameInTable="columnNbLecture" msprop:Generator_ColumnPropNameInRow="NbLecture" msprop:Generator_ColumnPropNameInTable="NbLectureColumn" msprop:Generator_UserColumnName="NbLecture" type="xs:string" minOccurs="0" />
+              <xs:element name="DateDerniereLecture" msprop:Generator_ColumnVarNameInTable="columnDateDerniereLecture" msprop:Generator_ColumnPropNameInRow="DateDerniereLecture" msprop:Generator_ColumnPropNameInTable="DateDerniereLectureColumn" msprop:Generator_UserColumnName="DateDerniereLecture" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PlaylistSelectionnee" msprop:Generator_TableClassName="PlaylistSelectionneeDataTable" msprop:Generator_TableVarName="tablePlaylistSelectionnee" msprop:Generator_RowChangedName="PlaylistSelectionneeRowChanged" msprop:Generator_TablePropName="PlaylistSelectionnee" msprop:Generator_RowDeletingName="PlaylistSelectionneeRowDeleting" msprop:Generator_RowChangingName="PlaylistSelectionneeRowChanging" msprop:Generator_RowEvHandlerName="PlaylistSelectionneeRowChangeEventHandler" msprop:Generator_RowDeletedName="PlaylistSelectionneeRowDeleted" msprop:Generator_RowClassName="PlaylistSelectionneeRow" msprop:Generator_UserTableName="PlaylistSelectionnee" msprop:Generator_RowEvArgName="PlaylistSelectionneeRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:string" minOccurs="0" />
+              <xs:element name="NomPlaylist" msprop:Generator_ColumnVarNameInTable="columnNomPlaylist" msprop:Generator_ColumnPropNameInRow="NomPlaylist" msprop:Generator_ColumnPropNameInTable="NomPlaylistColumn" msprop:Generator_UserColumnName="NomPlaylist" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tmp" msprop:Generator_TableClassName="tmpDataTable" msprop:Generator_TableVarName="tabletmp" msprop:Generator_TablePropName="tmp" msprop:Generator_RowDeletingName="tmpRowDeleting" msprop:Generator_RowChangingName="tmpRowChanging" msprop:Generator_RowEvHandlerName="tmpRowChangeEventHandler" msprop:Generator_RowDeletedName="tmpRowDeleted" msprop:Generator_UserTableName="tmp" msprop:Generator_RowChangedName="tmpRowChanged" msprop:Generator_RowEvArgName="tmpRowChangeEvent" msprop:Generator_RowClassName="tmpRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Titre" msprop:Generator_ColumnVarNameInTable="columnTitre" msprop:Generator_ColumnPropNameInRow="Titre" msprop:Generator_ColumnPropNameInTable="TitreColumn" msprop:Generator_UserColumnName="Titre" type="xs:string" minOccurs="0" />
+              <xs:element name="Artiste" msprop:Generator_ColumnVarNameInTable="columnArtiste" msprop:Generator_ColumnPropNameInRow="Artiste" msprop:Generator_ColumnPropNameInTable="ArtisteColumn" msprop:Generator_UserColumnName="Artiste" type="xs:string" minOccurs="0" />
+              <xs:element name="Album" msprop:Generator_ColumnVarNameInTable="columnAlbum" msprop:Generator_ColumnPropNameInRow="Album" msprop:Generator_ColumnPropNameInTable="AlbumColumn" msprop:Generator_UserColumnName="Album" type="xs:string" minOccurs="0" />
+              <xs:element name="Durée" msprop:Generator_ColumnVarNameInTable="columnDurée" msprop:Generator_ColumnPropNameInRow="Durée" msprop:Generator_ColumnPropNameInTable="DuréeColumn" msprop:Generator_UserColumnName="Durée" type="xs:string" minOccurs="0" />
+              <xs:element name="Classement" msprop:Generator_ColumnVarNameInTable="columnClassement" msprop:Generator_ColumnPropNameInRow="Classement" msprop:Generator_ColumnPropNameInTable="ClassementColumn" msprop:Generator_UserColumnName="Classement" type="xs:string" minOccurs="0" />
+              <xs:element name="Genre" msprop:Generator_ColumnVarNameInTable="columnGenre" msprop:Generator_ColumnPropNameInRow="Genre" msprop:Generator_ColumnPropNameInTable="GenreColumn" msprop:Generator_UserColumnName="Genre" type="xs:string" minOccurs="0" />
+              <xs:element name="Chemin" msprop:Generator_ColumnVarNameInTable="columnChemin" msprop:Generator_ColumnPropNameInRow="Chemin" msprop:Generator_ColumnPropNameInTable="CheminColumn" msprop:Generator_UserColumnName="Chemin" type="xs:string" minOccurs="0" />
+              <xs:element name="Checksum" msprop:Generator_ColumnVarNameInTable="columnChecksum" msprop:Generator_ColumnPropNameInRow="Checksum" msprop:Generator_ColumnPropNameInTable="ChecksumColumn" msprop:Generator_UserColumnName="Checksum" type="xs:string" />
+              <xs:element name="Id" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:string" minOccurs="0" />
+              <xs:element name="DateAjout" msprop:Generator_ColumnVarNameInTable="columnDateAjout" msprop:Generator_ColumnPropNameInRow="DateAjout" msprop:Generator_ColumnPropNameInTable="DateAjoutColumn" msprop:Generator_UserColumnName="DateAjout" type="xs:string" minOccurs="0" />
+              <xs:element name="NbLecture" msprop:Generator_ColumnVarNameInTable="columnNbLecture" msprop:Generator_ColumnPropNameInRow="NbLecture" msprop:Generator_ColumnPropNameInTable="NbLectureColumn" msprop:Generator_UserColumnName="NbLecture" type="xs:string" minOccurs="0" />
+              <xs:element name="DateDerniereLecture" msprop:Generator_ColumnVarNameInTable="columnDateDerniereLecture" msprop:Generator_ColumnPropNameInRow="DateDerniereLecture" msprop:Generator_ColumnPropNameInTable="DateDerniereLectureColumn" msprop:Generator_UserColumnName="DateDerniereLecture" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PistesLecture" msprop:Generator_TableClassName="PistesLectureDataTable" msprop:Generator_TableVarName="tablePistesLecture" msprop:Generator_RowChangedName="PistesLectureRowChanged" msprop:Generator_TablePropName="PistesLecture" msprop:Generator_RowDeletingName="PistesLectureRowDeleting" msprop:Generator_RowChangingName="PistesLectureRowChanging" msprop:Generator_RowEvHandlerName="PistesLectureRowChangeEventHandler" msprop:Generator_RowDeletedName="PistesLectureRowDeleted" msprop:Generator_RowClassName="PistesLectureRow" msprop:Generator_UserTableName="PistesLecture" msprop:Generator_RowEvArgName="PistesLectureRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Checksum" msprop:Generator_ColumnVarNameInTable="columnChecksum" msprop:Generator_ColumnPropNameInRow="Checksum" msprop:Generator_ColumnPropNameInTable="ChecksumColumn" msprop:Generator_UserColumnName="Checksum" type="xs:string" />
+              <xs:element name="Chemin" msprop:Generator_ColumnVarNameInTable="columnChemin" msprop:Generator_ColumnPropNameInRow="Chemin" msprop:Generator_ColumnPropNameInTable="CheminColumn" msprop:Generator_UserColumnName="Chemin" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="PistesKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pistes" />
+      <xs:field xpath="mstns:Checksum" />
+    </xs:unique>
+    <xs:unique name="tmp_PistesKey1" msdata:ConstraintName="PistesKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tmp" />
+      <xs:field xpath="mstns:Checksum" />
+    </xs:unique>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:PistesLecture" />
+      <xs:field xpath="mstns:Checksum" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

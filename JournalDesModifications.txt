@@ -1,0 +1,37 @@
+Journal des Modifications :
+---------------------------
+
+Samedi 22 Décembre 15:45 - Valentin
+	- Correction du bug de lecture depuis MemoryStream en Release.
+	- Mise en place du ListView avec affichage/masquage en fonction de l'élément cliqué.
+	
+Lundi 24 Decembre 12:29 - Nicolas
+	- Ajout des Boutons Suivant/Precedent
+	- Recherche avec modification dynamique de la DataGridView
+	- Ajout d'une barre URL pour le Browser
+	
+Mercredi 26 Decembre 14:50 - Nicolas
+	-Modification le l'album Art par drag and drop lors de l'edition
+	-Correction du bug lors de l'edition : si pas de titre dans l'ID3 -> champ vide (prend maintenant le nom du fichier)
+	-Idem pour les labels Affichage lors de la lecture
+	-Fenetre d'edition maintenant en ShowDialog()
+	-Les labels Affichage sont modifies immediatement si il y a eu modification du tag du fichier
+	-La modification des labels affichage se fait grace a une methode updatetags.
+	-Le passage d'un morceau se fait par S.finished et non plus par trackbar.value==trackbar.maximum : plus propre!
+	-Mise en place d'un TabControl pour l'affichage par album
+	-Debut d'un affichage par Album, seulement de l'affichage pour le moment.
+
+Jeudi 27 Decembre 15:02 - Nicolas
+	-Quand l'on double-clique la datagridview sous nos yeux est chargee tel quel dans une datatable qui est utilisee pour la lecture
+	-Lecture par album fonctionnelle
+	-Drag Drop d'ajout de musique fonctionnelle sur l'affichage par album
+	-Correction de deux/trois bugs
+	-BOUTOOOOONNNSSSS!!!!
+	
+Dimanche 31 Decembre 12:34 - Nicolas
+	-Correction de bugs
+	-Plus de problemes avec la bar de navigation par album, elle est desactivee si il n'y a qu'un album.
+	-Morceaux dans la table lecture sont effaces si il y a suppression dans le XML
+	-Drag&Drop sur l'AlbumView pour editer l'image de toute les musique d'un album.
+	-Quelques autres choses que j'ai oublie >.<
+	
